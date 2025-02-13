@@ -55,7 +55,7 @@ button:active:after {
 
 
 .hidden {
-    /* display: none;    */
+    display: none;   
 }
 
 
